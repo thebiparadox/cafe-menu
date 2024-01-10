@@ -1,1 +1,1 @@
-Creating a Cafe Menu for Bad Website Club's bootcamp using [freecodecamp's Responsive Web Design curriculum](url). 
+Creating a Cafe Menu for Bad Website Club's bootcamp using [freecodecamp's Responsive Web Design curriculum](urlhttps://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1). 
